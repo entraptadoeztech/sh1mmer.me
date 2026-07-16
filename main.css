@@ -19,7 +19,7 @@
 .header {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/assets/background.png");
+  background-image: url("https://rawcdn.githack.com/entraptadoeztech/sh1mmer.me/refs/heads/main/assets/background.png");
   text-align: center;
   padding: 50px 5vw;
   color: var(--font);
